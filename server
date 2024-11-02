@@ -2,7 +2,7 @@ Online[
 
 "-0=FreeLitecoin v1.1|https://raw.githubusercontent.com/sixteen-crypto/Data-Server/refs/heads/main/Free-Litecoin",
 "-1=BCH Bot v1.0|https://rentry.co/bchbot/raw",
-"-2=Clickbee LTC v1.2|https://rentry.co/clickbee_ltc/raw",
+"-2=Clickbee LTC v1.2|https://raw.githubusercontent.com/sixteen-crypto/Data-Server/refs/heads/main/clickbeeltc",
 "-3=Tonclick v1.1|https://rentry.co/tonclick/raw",
 "-4=Earnbitmoon v1.1|https://rentry.co/earnbitmoon_run/raw",
 "-5=None|"
